@@ -1,0 +1,10 @@
+body {
+  color: gold;
+  background-color: grey;
+  border: 4px double blue;
+};
+
+.header {
+  width: 70%;
+  
+}
